@@ -1,0 +1,13 @@
+/* 
+color {    
+    light-color: ff6454;
+    main-color: c0392b;
+    dark-color: 852e25;
+}
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
